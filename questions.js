@@ -579,7 +579,7 @@ const questions = [
           "knowing how to drive a car",
           "knowing how to ride a bicycle"
         ],
-        "answer": "being able to name a hybrids car"
+        "answer": "being able to name a hybrid car"
       },
       {
         "question": "Which of the following is FALSE regarding a connectionist training 'epoch'?",
